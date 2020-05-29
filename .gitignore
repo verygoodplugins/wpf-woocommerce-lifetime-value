@@ -1,0 +1,10 @@
+*.sublime-project
+*.sublime-workspace
+composer.json
+*.codekit
+.DS_Store
+*.idea
+.idea/vcs.xml
+.idea/vcs.xml
+node_modules/
+includes/admin/gutenberg/package-lock.json
